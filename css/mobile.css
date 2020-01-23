@@ -1,0 +1,85 @@
+.main-container {
+    margin:0;
+    padding:0;
+}
+
+.central-dash {
+    padding:15px;
+}
+
+.nav-bar .nav-mid-child {
+    width: 100%;
+}
+
+.campaign-card-group .card-deck-test {
+    flex-direction: column;
+}
+
+.campaign-card-group .card-deck-test .campaign-card {
+    margin-bottom: 0.75rem;
+}
+
+.central-dash-items h5 {
+   text-align: center;
+}
+
+.weekly-insight-heading .weekly-insight-details {
+    display: none;
+}
+
+.no-desktop {
+    display: flex;
+    margin: auto;
+    font-weight: 600;
+    color:#75a2f3cf;
+    text-decoration: none;
+}
+
+.weekly-insight-chart {
+    flex-direction: column;
+}
+
+.weekly-insight-chart img {
+    border-radius: 10px;
+}
+
+.weekly-insight-image {
+    height: 150px;
+}
+
+.weekly-insight-contents {
+    margin-top: 1rem;
+}
+
+.weekly-insight-campaigns {
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
+
+.new-leads-heading {
+    flex-direction: column;
+}
+
+.new-leads-subheading {
+    margin:auto;
+}
+
+.lead-no,
+.lead-email,
+.lead-date,
+.lead-history,
+.lead-delete {
+    display: none;
+}
+
+.statistic-card-subcontent {
+    flex-direction: column;
+}
+
+.upgrade-plan {
+    width: 80%;
+}
+
+.upgrade-plan img {
+    margin: auto;
+}
